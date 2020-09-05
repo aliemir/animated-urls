@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h4 {
+  color: gray;
+}
+
+input[type="text"] {
+  display: block;
+  margin: 0 auto;
+}
+
+button {
+  margin: 5px;
+}
